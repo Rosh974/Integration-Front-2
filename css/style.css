@@ -1,0 +1,35 @@
+*{
+    font-family: "Raleway", sans-serif;
+}
+
+.page-title{
+
+    color: #0c2e8a;
+
+}
+
+span{
+
+    color:  #50d8af;
+
+}
+.nav-link-disabled{
+
+    color:  #50d8af;
+
+}
+
+a{
+    list-style-type: none;
+    color:black;
+}
+
+.ps-mt-6{
+    margin-top:79px;
+}
+
+.italic{
+
+    font-style: italic;
+
+}
