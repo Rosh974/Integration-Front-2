@@ -28,12 +28,6 @@ a{
     margin-top:79px;
 }
 
-.italic{
-
-    font-style: italic;
-
-}
-
 .slider-title{
 
     color: #0c2e8a;
@@ -51,5 +45,11 @@ a{
 .carousel-caption{
 
     margin-bottom: 300px;
+
+}
+
+.fa-check-circle{
+
+    color:  #50d8af;
 
 }
