@@ -33,3 +33,23 @@ a{
     font-style: italic;
 
 }
+
+.slider-title{
+
+    color: #0c2e8a;
+
+}
+
+.style-slide{
+
+    color:  #50d8af;
+    text-decoration: underline; 
+    
+
+}
+
+.carousel-caption{
+
+    margin-bottom: 300px;
+
+}
